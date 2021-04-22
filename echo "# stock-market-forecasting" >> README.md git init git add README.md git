@@ -1,0 +1,20 @@
+echo "# stock-market-forecasting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:akashkumargpt17/stock-market-forecasting.git
+git push -u origin main
+echo "# stock-market-forecasting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:akashkumargpt17/stock-market-forecasting.git
+git push -u origin mainecho "# stock-market-forecasting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:akashkumargpt17/stock-market-forecasting.git
+git push -u origin main
